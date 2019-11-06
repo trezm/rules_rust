@@ -11,7 +11,7 @@ _CPU_ARCH_TO_BUILTIN_PLAT_SUFFIX = {
     "i586": None,
     "powerpc64": None,
     "powerpc64le": None,
-    "armv7": None,
+    "armv7": "armv7",
     "armv7s": None,
     "s390": None,
     "le32": None,

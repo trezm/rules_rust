@@ -41,6 +41,7 @@ _SUPPORTED_CPU_ARCH = [
     "powerpc",
     "aarch64",
     "arm",
+    "armv7",
     "i686",
     "s390x",
 ]
